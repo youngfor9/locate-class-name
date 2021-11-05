@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.youngfor9.locateclassname.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.youngfor9.locateclassname.MyBundle
 
 class MyApplicationService {
 
